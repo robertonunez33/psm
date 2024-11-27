@@ -1,0 +1,17 @@
+{
+	id: "3c311ea8-ae60-4e11-a694-33a09cf948bc"
+	type: "player"
+	player_name: "LordFurius072"
+	ranks: {
+		3c311ea8-ae60-4e11-a694-33a09cf948bc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LordFurius072"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFA259"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

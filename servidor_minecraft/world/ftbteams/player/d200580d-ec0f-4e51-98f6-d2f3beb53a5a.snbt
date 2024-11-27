@@ -1,0 +1,17 @@
+{
+	id: "d200580d-ec0f-4e51-98f6-d2f3beb53a5a"
+	type: "player"
+	player_name: "Dann_3476"
+	ranks: {
+		d200580d-ec0f-4e51-98f6-d2f3beb53a5a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Dann_3476"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5F59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
